@@ -1,0 +1,31 @@
+
+body {
+  background-image: url("../img/img2.jpg");
+  background-color: #f1f6fb;
+  /* Full height */
+  height:70vh;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.center {
+  margin: auto;
+  margin-top: 200px;
+}
+
+#header {
+  font-family: 'Righteous', sans-serif;
+  font-size: 3rem;
+  color: rgb(255, 255, 255);
+}
+
+h2 {
+  font-family: 'Righteous', sans-serif;
+}
+
+.book-list {
+  margin-top: 50px;
+  visibility: hidden;
+}
+
